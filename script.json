@@ -1,6 +1,8 @@
 {
     "HELLO": "Hi there!\nI’m the personal bot of Wael, a Computer Engineer from Saudi Arabia.\n![wael](https://raw.githubusercontent.com/ylksa/WaelBot/master/img/Avatar.jpg)\nWant to know more about bots or learn about Wael? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Wael](postback:learn_about_wael) %[One random fact!](postback:random_fact)",
-    "HERE FOR THE BOT": "Ha, I thought so!",
+    "I'M HERE FOR THE BOT": "Ha, I thought so!\nAre you perhaps thinking about building your own bot? %[I'd like to](postback:ID_LIKE_TO) %[Not yet](postback:NOT_YET)",
+    "I'D LIKE TO": "Cool. This should be helpful. %[View Tutorial](http://lifehacker.com/how-i-turned-my-resume-into-a-chat-bot-1775565350) %[Learn About Wael](postback:learn_about_wael)",
+    "LEARN ABOUT ESTHER": "I can tell you a bunch of stuff about Esther. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Esther. %[Connect with Esther](postback:connect_me)",
     "BOT": "Hey, I'm so glad you set WaelBot up! Do you want to tell Wael that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Wael so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Wael](http://ctt.ec/b0ELp)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
